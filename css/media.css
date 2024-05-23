@@ -1,0 +1,121 @@
+@media (max-width: 1200px){
+    .container{
+        width: 95%;
+    }
+    .S-3 img {
+        width: 30%;
+    }
+}
+
+
+
+@media(max-width:860px){
+    .form{
+        flex-direction: column;
+        align-items: center;
+
+    }
+}
+
+@media(max-width:860px){
+    
+    input[type="text"]{
+        width: 100%;
+    }
+
+    input[type="submit"] {
+        width: 100%;
+    }
+    
+    .input{
+        width: 100%;
+    }
+
+    input[type="email"]{
+        width: 100%;
+    }
+
+    .S-3 {
+        flex-direction: column;
+        align-items: center;
+        gap: 30px;
+    }
+
+    .S-3 img {
+        width: 80%;
+    }
+}
+
+@media(max-width:426px){
+    .hwrapper > h2{
+        font-size: 35px;
+    }
+}
+
+@media(max-width:360px){
+    textarea{
+        width: 100%;
+    }
+    .hwrapper {
+        width: 300px;
+    }
+
+}
+
+@media(max-width:760px){
+    .info{
+        flex-direction: column;
+        gap: 35px;
+    }
+}
+
+@media(max-width:1090px){
+    .photo{
+        flex-direction: column;
+        align-items: center;
+    }
+}
+
+
+
+@media(max-width:566px){
+    .text > h2 {
+        width:50%
+        font-size
+    }
+}
+
+@media(max-width:566px){
+    .text > h2{
+        font-size: 35px;
+    }
+}
+
+@media(max-width:360px){
+    .text {
+        width: 286px;
+    }
+
+    .card > p{
+        width: 270px;
+    }
+}
+
+@media (max-width:870px){
+    .div{
+        flex-direction: column;
+    }
+
+}
+
+@media (max-width:562px){
+    .card-wrapper{
+        flex-direction: column;
+    }
+
+    .container-1{
+        width: 90%;
+    }
+
+
+}
